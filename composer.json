@@ -24,8 +24,7 @@
   "repositories": [
     {
       "type": "rsf",
-      "url": "https://github.com/LechDutkiewicz/roots-sage-foundation.git",
-      "test": "something"
+      "url": "https://github.com/LechDutkiewicz/roots-sage-foundation.git"
     }
   ],
   "keywords": [
